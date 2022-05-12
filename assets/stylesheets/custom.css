@@ -25,6 +25,10 @@
   border-radius: 1.5rem !important;
 }
 
+.circle {
+  border-radius: 100rem !important;
+}
+
 .video-border {
   border-width: 2px;
   border-style: solid;
@@ -34,6 +38,27 @@
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none
+}
+
+.button.hollow-button-blue {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #0B66C2;
+  background-color: rgba(255, 255, 255, 0);
+  color: #0B66C2;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none
+}
+
+.button.hollow-button-blue:active,
+.button.hollow-button-blue:focus,
+.button.hollow-button-blue:hover {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #004182;
+  background-color: #004182;
+  color: #fff
 }
 
 /* This element defines the size the iframe will take.
