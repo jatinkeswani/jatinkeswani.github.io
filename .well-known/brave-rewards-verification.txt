@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jatinkeswani.com
+Token: beceb44a19f5865652978059fc46d0b836360cf48da2c2a7e755855875da46ee
